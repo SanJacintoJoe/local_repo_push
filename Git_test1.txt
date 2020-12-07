@@ -1,0 +1,3 @@
+Test of local repo
+
+My favorite animal is a raccoon
